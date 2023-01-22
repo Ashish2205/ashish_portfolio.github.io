@@ -505,7 +505,7 @@ header .navbar a:hover{
         padding: 30px;
     }
     .contact .follow {
-        padding: 30px 15px;
+        padding: 30px 20px;
     }
     .contact .follow .smi {
         width: 70px;
@@ -513,8 +513,4 @@ header .navbar a:hover{
         display: flex;
         justify-content: center;
     }
-    .home{
-        min-height: 600px;
-    }
-    
 }
