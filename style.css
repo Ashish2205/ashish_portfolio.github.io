@@ -514,6 +514,9 @@ header .navbar a:hover{
         justify-content: center;
     }
     .home{
-        min-height: 500px;
+        min-height: 600px;
+    }
+    .contact .follow{
+        padding: 30px 15px;
     }
 }
